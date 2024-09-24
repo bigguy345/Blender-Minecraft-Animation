@@ -1,5 +1,5 @@
 import bpy, json, os
-from blender_addon.constants import getImportName
+from modules.constants import getImportName
 
 HOLD_ON_LAST_FRAME = True
 
@@ -120,8 +120,8 @@ def correctValue(value, name, type, fcurve):
             value = value * 0.25
             if type == "z":
                 value = value * -1
-    elif not (name == "torso" and not (type == "roll" or type == "bend")) and not (
-        type == "axis"
+    elif not (
+        name == "torso" and not (type == "roll" or type == "bend" or type == "axis")
     ):  # rotation correction (*-1) except for torzo roll/bend
         value = value * -1
 
