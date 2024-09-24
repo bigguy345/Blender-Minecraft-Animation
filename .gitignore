@@ -1,4 +1,4 @@
 /*
 !/.gitignore
-!/animation utils/player_model.blend
-!/animation utils/blender_addon
+!player_model.blend
+!modules
