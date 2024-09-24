@@ -6,6 +6,6 @@ Installation: In Blender, go to **_Edit > Preferences > Add-ons > Install_** the
 
 #### Preview:
 
-<img src="images/preview.gif" width="474" height="260"/>
+<img src="images/preview.gif" width="1660" height="1316"/>
 
 Discord: @goateeee for inquiries or feature requests
