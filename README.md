@@ -2,6 +2,10 @@ A blender addon for minecraft animations that mainly supports KosmX's minecraftP
 
 This addon is designed to work with player_model.blend
 
-Installation: In Blender, go to ***Edit > Preferences > Add-ons > Install*** then select the minecraft_blender_addon.zip downloaded from Releases
+Installation: In Blender, go to **_Edit > Preferences > Add-ons > Install_** then select the minecraft_blender_addon.zip downloaded from Releases
+
+#### Preview:
+
+<img src="images/preview.gif" width="474" height="260"/>
 
 Discord: @goateeee for inquiries or feature requests
