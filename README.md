@@ -8,8 +8,8 @@ Installation: In Blender, go to **_Edit > Preferences > Add-ons > Install_** the
 
 <img src="images/preview.gif" width="830" height="658"/>
 
-```diff
-- Note: Must use have the bendy-lib mod (also by KosmX) for bending animations to work!
-```
+> [!NOTE]
+> Must have the bendy-lib mod (also by KosmX) for bending animations to work.
+
 
 Discord: @goateeee for inquiries or feature requests
